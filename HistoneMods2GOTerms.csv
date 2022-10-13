@@ -1,0 +1,48 @@
+﻿histoneMod,GOTerm,GOName
+H2AK5ac,GO:0043977,histone H2A-K5 acetylation
+H2AK5ac,GO:0043999,histone H2AK5 acetyltransferase activity
+H2AS129ph,None,None
+H3K14ac,GO:0044154,histone H3-K14 acetylation
+H3K14ac,GO:0036408,histone H3K14 acetyltransferase activity
+H3K18ac,GO:0043971,histone H3-K18 acetylation
+H3K18ac,GO:0043993,histone H3K18 acetyltransferase activity
+H3K23ac,GO:0043972,histone H3-K23 acetylation
+H3K23ac,GO:0043994,histone H3K23 acetyltransferase activity
+H3K27ac,GO:0043974,histone H3-K27 acetylation
+H3K27ac,GO:0044017,histone H3K27 acetyltransferase activity
+H3K36me,GO:0010452,histone H3-K36 methylation
+H3K36me,GO:0046975,histone H3K36 methyltransferase activity
+H3K36me2,GO:0097676,histone H3-K36 dimethylation
+H3K36me2,GO:0046975,histone H3K36 methyltransferase activity
+H3K36me3,GO:0097198,histone H3-K36 trimethylation
+H3K36me3,GO:0046975,histone H3K36 acetyltransferase activity
+H3K4ac,GO:0043973,histone H3-K4 acetylation
+H3K4ac,GO:0044016,histone H3K4 acetyltransferase activity
+H3K4me,GO:0051568,histone H3-K4 methylation
+H3K4me,GO:0042800,histone H3K4 methyltransferase activity
+H3K4me2,GO:0044648,histone H3-K4 dimethylation
+H3K4me2,GO:0042800,histone H3K4 methyltransferase activity
+H3K4me3,GO:0080182,histone H3-K4 trimethylation
+H3K4me3,GO:0042800,histone H3K4 methyltransferase activity
+H3K56ac,GO:0097043,histone H3-K56 acetylation
+H3K56ac,GO:0032931,histone H3K56 acetyltransferase activity
+H3K79me,GO:0034729,histone H3-K79 methylation
+H3K79me,GO:0031151,histone H3K79 methyltransferase activity
+H3K79me3,GO:0031151,histone H3K79 methyltransferase activity
+H3K9ac,GO:0043970,histone H3-K9 acetylation
+H3K9ac,GO:0043992,histone H3K9 acetyltransferase activity
+H3S10ph,GO:0035175,histone H3S10 kinase activity
+H4K12ac,GO:0043983,histone H4-K12 acetylation
+H4K12ac,GO:0043997,histone H4K12 acetyltransferase activity
+H4K16ac,GO:0043984,histone H4-K16 acetylation
+H4K16ac,GO:0046972,histone H4K16 acetyltransferase activity
+H4K20me,GO:0034770,histone H4-K20 methylation
+H4K20me,GO:0042799,histone H4K20 methyltransferase activity
+H4K5ac,GO:0043981,histone H4-K5 acetylation
+H4K5ac,GO:0043995,histone H4K5 acetyltransferase activity
+H4K8ac,GO:0043982,histone H4-K8 acetylation
+H4K8ac,GO:0043996,histone H4K8 acetyltransferase activity
+H4R3me,GO:0043985,histone H4-R3 methylation
+H4R3me,GO:0044020,histone H4R3 methyltransferase activity
+H4R3me2s,GO:0044020,histone H4R3 methyltransferase activity
+HTZ1,None,None
