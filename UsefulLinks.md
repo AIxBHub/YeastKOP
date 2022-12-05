@@ -11,3 +11,5 @@ Micro-C Nucleosome Mapping: (https://pubmed.ncbi.nlm.nih.gov/26119342/)
 High-temporal-resolution view of transcription and chromatin states across distinct metabolic states in budding yeast: (https://pubmed.ncbi.nlm.nih.gov/25173176/)
 
 Genetic dissection of complex traits using hierarchical biological knowledge: (https://hgdownload.soe.ucsc.edu/goldenPath/sacCer3/multiz7way/fasta/)
+
+ChIP-Seq Atlas Database: (https://chip-atlas.org/)
