@@ -13,3 +13,5 @@ High-temporal-resolution view of transcription and chromatin states across disti
 Genetic dissection of complex traits using hierarchical biological knowledge: (https://hgdownload.soe.ucsc.edu/goldenPath/sacCer3/multiz7way/fasta/)
 
 ChIP-Seq Atlas Database: (https://chip-atlas.org/)
+
+Learning the histone codes with large genomic windows and three-dimensional chromatin interactions using transformer: (https://pubmed.ncbi.nlm.nih.gov/36335101/)
